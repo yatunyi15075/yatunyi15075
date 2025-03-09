@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/yatunyi_brian" target="blank"><img src="https://img.shields.io/twitter/follow/yatunyi_brian?logo=twitter&style=for-the-badge" alt="yatunyi_brian" /></a> </p>
 
-- 🔭 I’m currently working on **codeHeal**
+- 🔭 I’m currently working on **Zawadii**
 
 - 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **React, JavaScript, Python, Flutter**
 
-- 📫 How to reach me **brianyondeko03@gmail.com**
+- 📫 How to reach me **codingwbrian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
